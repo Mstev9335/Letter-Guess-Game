@@ -1,6 +1,7 @@
 # Letter Guessing Game
 ## Technologies used:
-HTML, CSS
+* HTML
+* CSS
 
 ### Instructions
 The user begins the game by pressing a key to guess a letter.  The user has 10 total guesses, and with each wrong
