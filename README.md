@@ -11,4 +11,13 @@ guess, the guessed letter is displayed in a "guessed" section.  If the user runs
 increased by 1 and the game begins again.  If the user guesses the correct letter, the wins element is increased by 1 
 and the game begins again.
 
+### App starts
+![start](/assets/images/letter1.png)
+
+### After some guessed letters
+![guess](/assets/images/letter2.png)
+
+### After some wins and losses
+![games](/assets/images/letter3.png)
+
 Depoyed website: https://mstev9335.github.io/Letter-Guess-Game/
